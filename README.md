@@ -1,1 +1,3 @@
 # Log
+
+The Log Component.
