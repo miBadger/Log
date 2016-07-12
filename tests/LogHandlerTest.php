@@ -62,6 +62,6 @@ class LogHandlerTest extends \PHPUnit_Framework_TestCase
 	{
 		$this->logHandler->update(new Logger());
 
-		$this->file->read();
+		@$this->file->read();
 	}
 }
