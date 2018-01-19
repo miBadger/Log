@@ -14,6 +14,7 @@ use miBadger\File\File;
 use org\bovigo\vfs\vfsStream;
 use org\bovigo\vfs\vfsStreamDirectory;
 use org\bovigo\vfs\vfsStreamWrapper;
+use PHPUnit\Framework\TestCase;
 use Psr\Log\LogLevel;
 
 /**
@@ -21,7 +22,7 @@ use Psr\Log\LogLevel;
  *
  * @since 1.0.0
  */
-class LogHandlerTest extends \PHPUnit_Framework_TestCase
+class LogHandlerTest extends TestCase
 {
 	/** @var LogHandler The log handler. */
 	private $logHandler;
