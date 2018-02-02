@@ -3,6 +3,7 @@
 [![Build Status](https://scrutinizer-ci.com/g/miBadger/miBadger.Log/badges/build.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Log/build-status/master)
 [![Code Coverage](https://scrutinizer-ci.com/g/miBadger/miBadger.Log/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Log/?branch=master)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/miBadger/miBadger.Log/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/miBadger/miBadger.Log/?branch=master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/f496327d-dfe7-47cf-b9b6-6a0cfd915608/mini.png)](https://insight.sensiolabs.com/projects/f496327d-dfe7-47cf-b9b6-6a0cfd915608)
 
 The Log Component.
 

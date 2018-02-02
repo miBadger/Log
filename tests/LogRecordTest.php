@@ -10,6 +10,7 @@
 
 namespace miBadger\Log;
 
+use PHPUnit\Framework\TestCase;
 use Psr\Log\LogLevel;
 
 /**
@@ -17,7 +18,7 @@ use Psr\Log\LogLevel;
  *
  * @since 1.0.0
  */
-class LogRecordTest extends \PHPUnit_Framework_TestCase
+class LogRecordTest extends TestCase
 {
 	private $logRecord;
 
