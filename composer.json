@@ -20,7 +20,7 @@
 	"require": {
 		"php": "^7.0",
 		"psr/log": "^1.0",
-		"mibadger/file": "^2.0",
+		"mibadger/file": "^2.0 || ^3.0",
 		"mibadger/observer": "^2.0"
 	},
 	"require-dev": {
